@@ -1,4 +1,5 @@
-#Coronavirus Twitter Dataset Analysis
+# Coronavirus twitter analysis
+
 
 I was responsible for developing the code to analyze geotagged tweets from 2020 and monitor the spread of coronavirus on social media. The project involved working with large scale datasets, multilingual text, and implementing the MapReduce divide-and-conquer paradigm to create parallel code.
 
