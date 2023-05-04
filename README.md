@@ -43,7 +43,7 @@ By running the command
 ```
 python3 ./src/visualize.py --input_path=reduced.country --key='#coronavirus'
 ```
-We get
+The following visual is generated.
 
 ## Use of #Coronavirus in 2020 by Country
 
@@ -53,7 +53,7 @@ By running the command
 ```
 python3 ./src/visualize.py --input_path=reduced.lang --key='#코로나바이러스'
 ```
-We get
+The following visual is generated.
 
 ## Use of #코로나바이러 in 2020 by Language
 
@@ -63,7 +63,7 @@ By running the command
 ```
 python3 ./src/visualize.py --input_path=reduced.country --key='#코로나바이러스'
 ```
-We get
+The following visual is generated.
 
 ## Use of #코로나바이러 in 2020 by Country
 
