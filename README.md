@@ -75,15 +75,17 @@ By running the command
 ```
 python3 ./src/alternative_reduce.py --keys '#doctor' '#nurse'
 ```
-We get
+The following visual is generated.
+
 ## Use of #doctor and #nurse Throughout 2020
 
-![#covid19 and #coronavirus throughout 2020](covid19_coronavirus.png)
+![#covid19 and #coronavirus throughout 2020](c19_corona.png)
 By running the command
 ```
 python3 ./src/alternative_reduce.py --keys '#doctor' '#nurse'
 ```
-We get
+Generated 
+
 ## Use of #doctor and #nurse Throughout 2020
 
 ![#doctor and #nurse throughout 2020](dn.png)
